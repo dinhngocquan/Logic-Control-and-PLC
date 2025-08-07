@@ -1,4 +1,4 @@
-# PLC Experiments Automation
+# Logic Control and PLC
 
 ## Description
 This repository contains PLC programming experiments for automated systems, including:
